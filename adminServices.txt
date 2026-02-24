@@ -1,7 +1,7 @@
 add and remove 
 change the 
 change1
-change2  harish will  mysql connections are good
+change2  harish will  MySql connections are good
   
  Manage the database 
 closing the connections

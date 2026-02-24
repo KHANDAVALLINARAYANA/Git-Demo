@@ -1,7 +1,7 @@
 add and remove 
 change the 
 change1
-change2  connections to database
+change2  harish will connections
   
  Manage the database 
 closing the connections

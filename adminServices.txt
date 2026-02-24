@@ -1,7 +1,6 @@
 add and remove 
 change the 
-change1
-change2   hi bye
- 
+
+  
  Manage the database 
 closing the connections

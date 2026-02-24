@@ -4,5 +4,6 @@ process the Data
 
 
 create the avatar
-logg
-
+ 
+ login and logout
+ 
